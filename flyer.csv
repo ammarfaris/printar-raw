@@ -1,0 +1,49 @@
+﻿product name,product category,product excerpt,standard size,material,print,price
+Flyer,flyer,Customize your flyer specification and get instant quote.,A3,simili 80 gsm,single-sided,2.3
+Flyer,flyer,,A3,simili 80 gsm,double-sided,4
+Flyer,flyer,,A3,artpaper 128 gsm,single-sided,2.3
+Flyer,flyer,,A3,artpaper 128 gsm,double-sided,4
+Flyer,flyer,,A3,artcard 260 gsm,single-sided,2.5
+Flyer,flyer,,A3,artcard 260 gsm,double-sided,4.2
+,,,,,,
+Flyer,flyer,,A4,simili 80 gsm,single-sided,1.3
+Flyer,flyer,,A4,simili 80 gsm,double-sided,2.4
+Flyer,flyer,,A4,artpaper 128 gsm,single-sided,1.3
+Flyer,flyer,,A4,artpaper 128 gsm,double-sided,2.4
+Flyer,flyer,,A4,artcard 260 gsm,single-sided,1.5
+Flyer,flyer,,A4,artcard 260 gsm,double-sided,2.8
+,,,,,,
+Flyer,flyer,,A5,simili 80 gsm,single-sided,0.8
+Flyer,flyer,,A5,simili 80 gsm,double-sided,1.5
+Flyer,flyer,,A5,artpaper 128 gsm,single-sided,0.8
+Flyer,flyer,,A5,artpaper 128 gsm,double-sided,1.5
+Flyer,flyer,,A5,artcard 260 gsm,single-sided,1
+Flyer,flyer,,A5,artcard 260 gsm,double-sided,1.8
+,,,,,,
+Flyer,flyer,,A6,simili 80 gsm,single-sided,0.5
+Flyer,flyer,,A6,simili 80 gsm,double-sided,0.9
+Flyer,flyer,,A6,artpaper 128 gsm,single-sided,0.5
+Flyer,flyer,,A6,artpaper 128 gsm,double-sided,0.9
+Flyer,flyer,,A6,artcard 260 gsm,single-sided,0.6
+Flyer,flyer,,A6,artcard 260 gsm,double-sided,1
+,,,,,,
+Flyer,flyer,,A7,simili 80 gsm,single-sided,0.3
+Flyer,flyer,,A7,simili 80 gsm,double-sided,0.5
+Flyer,flyer,,A7,artpaper 128 gsm,single-sided,0.3
+Flyer,flyer,,A7,artpaper 128 gsm,double-sided,0.5
+Flyer,flyer,,A7,artcard 260 gsm,single-sided,0.35
+Flyer,flyer,,A7,artcard 260 gsm,double-sided,0.6
+,,,,,,
+Flyer,flyer,,DL,simili 80 gsm,single-sided,0.6
+Flyer,flyer,,DL,simili 80 gsm,double-sided,1.3
+Flyer,flyer,,DL,artpaper 128 gsm,single-sided,0.6
+Flyer,flyer,,DL,artpaper 128 gsm,double-sided,1.3
+Flyer,flyer,,DL,artcard 260 gsm,single-sided,0.7
+Flyer,flyer,,DL,artcard 260 gsm,double-sided,1.4
+,,,,,,
+Flyer,flyer,,PC,simili 80 gsm,single-sided,0.8
+Flyer,flyer,,PC,simili 80 gsm,double-sided,1.5
+Flyer,flyer,,PC,artpaper 128 gsm,single-sided,0.8
+Flyer,flyer,,PC,artpaper 128 gsm,double-sided,1.5
+Flyer,flyer,,PC,artcard 260 gsm,single-sided,1
+Flyer,flyer,,PC,artcard 260 gsm,double-sided,1.8
